@@ -1,2 +1,3 @@
 GRANT CREATE TABLE TO oc_grant_testing;
+GRANT DROP ROLLBACK SEGMENT TO oc_grant_testing;
 GRANT UNLIMITED TABLESPACE TO oc_grant_testing;
